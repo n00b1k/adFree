@@ -1,0 +1,101 @@
+#
+# ----- ----- Soft ----- -----
+#
+
+# BetterIntelliJ
+127.0.0.1       bi.studycoder.com
+127.0.0.1       repo.idechajian.com
+127.0.0.1       bs.studycoder.com
+127.0.0.1       *.studycoder.com
+
+# Caramba
+127.0.0.1       caramba.tech
+127.0.0.1       download.caramba.tech
+
+# Docker Desktop
+127.0.0.1       kubernetes.docker.internal
+
+# FreeMake
+127.0.0.1       fvc_stat.freemake.com
+
+# KMPlayer
+127.0.0.1       *.kmpmedia.net
+127.0.0.1       *.pandora.tv
+#127.0.0.1       cdn.kmplayer.com
+127.0.0.1       player.kmpmedia.net
+
+# Little Snitch
+127.0.0.1       obdev.at
+127.0.0.1       83.169.2.77
+127.0.0.1       78.46.114.187
+127.0.0.1       78.46.72.168
+127.0.0.1       hetzner.obdev.at
+#127.0.0.1       wtf.obdev.at
+127.0.0.1       46.4.223.210
+127.0.0.1       sw-update.obdev.at
+
+# M4VGear
+127.0.0.1       m4vgear.com
+
+# Mozilla
+127.0.0.1       aus.mozilla.org
+127.0.0.1       aus2.mozilla.org
+127.0.0.1       aus3.mozilla.org
+127.0.0.1       aus4.mozilla.org
+127.0.0.1       aus5.mozilla.org
+127.0.0.1       ftp.mozilla.org
+127.0.0.1       archive.mozilla.org
+127.0.0.1       download.cdn.mozilla.net
+
+# NVidia
+127.0.0.1       events.gfe.nvidia.com
+
+# Opera
+127.0.0.1       autoupdate.opera.com
+127.0.0.1       autoupdate.geo.opera.com
+
+# Parallels
+#127.0.0.1       download.parallels.com
+127.0.0.1       update.parallels.com
+127.0.0.1       desktop.parallels.com
+127.0.0.1       download.parallels.com.cdn.cloudflare.net
+127.0.0.1       update.parallels.com.cdn.cloudflare.net
+127.0.0.1       desktop.parallels.com.cdn.cloudflare.net
+127.0.0.1       www.parallels.cn
+127.0.0.1       www.parallels.com
+127.0.0.1       www.parallels.de
+127.0.0.1       www.parallels.es
+127.0.0.1       www.parallels.fr
+127.0.0.1       www.parallels.nl
+127.0.0.1       www.parallels.pt
+127.0.0.1       www.parallels.ru
+127.0.0.1       www.parallelskorea.com
+127.0.0.1       reportus.parallels.com
+127.0.0.1       parallels.cn
+127.0.0.1       parallels.com
+127.0.0.1       parallels.de
+127.0.0.1       parallels.es
+127.0.0.1       parallels.fr
+127.0.0.1       parallels.nl
+127.0.0.1       parallels.pt
+127.0.0.1       parallels.ru
+127.0.0.1       parallelskorea.com
+127.0.0.1       pax-manager.myparallels.com
+127.0.0.1       myparallels.com
+127.0.0.1       my.parallels.com
+
+# Potplayer
+127.0.0.1       p1-play.edge4k.com
+127.0.0.1       p2-play.edge4k.com
+
+# Remote Desktop Manager
+127.0.0.1       crm.devolutions.net
+
+# Sublime
+127.0.0.1       sublimehq.com
+127.0.0.1       license.sublimehq.com
+127.0.0.1       45.55.255.55
+127.0.0.1       45.55.41.223
+
+# Typinator
+127.0.0.1       ergonis.com
