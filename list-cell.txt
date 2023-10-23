@@ -1,0 +1,10 @@
+#
+# ----- ----- Cell ----- -----
+#
+
+# Megafon
+127.0.0.1       wap.megafonpro.ru
+127.0.0.1       podpiskipro.ru
+127.0.0.1       www.podpiskipro.ru
+127.0.0.1       megafonpro.ru
+127.0.0.1       www.megafonpro.ru
