@@ -1,0 +1,7 @@
+#
+# ----- ----- Games ----- -----
+#
+
+# Europa Universalis IV
+# 127.0.0.1     ec2-23-23-74-116.compute-1.amazonaws.com
+# 127.0.0.1     api.paradoxplaza.com
