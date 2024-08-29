@@ -1,0 +1,7 @@
+172.217.18.14  youtube.com
+172.217.18.14  www.youtube.com
+172.217.16.196  googlevideo.com
+142.250.184.238  video.google.com
+142.250.185.110  youtu.be
+142.250.185.132  googleapis.com
+142.250.184.214  i.ytimg.com
