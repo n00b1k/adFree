@@ -3,3 +3,5 @@
 3.173.161.20      api.themoviedb.org
 3.173.161.91      image.tmdb.org
 108.138.192.107   www.themoviedb.org
+89.187.165.194    media.themoviedb.org
+104.16.242.118    developer.themoviedb.org
